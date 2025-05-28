@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTGRP: Clasic
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lTwy9MLcpyLOwI3ZoyaYL0Hio3H.jpg",Historias para no dormir (1966)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Cuentos%20para%20Mantenerte%20Despierto%20(1966).m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fV5U1eWPC8Dvxq0BUIoF7cvBK1o.jpg",V (1983)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/V%20invacion%20estaterreste.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rDWPkR9jgDHg3D3XkKsxUy7S3NW.jpg",Dawson crece (1998)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Dawsonscreek.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg.webp",auto fantastico (2008)
+https://archive.org/download/spartacus_202412/autofabtastico.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zyEX66a7TqjtfDfGypDk3de3mF.jpg",ER urgencias (1994)
+https://archive.org/download/spartacus_202412/ERemergenciascoleccion.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ePIoXpCYo3vbmlKfyghAiL1RjYW.jpg",Stargate SG-1 (1997)
+https://archive.org/download/bflix_202501/storageSG-1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOdCQN4Jdjo88i8oyvxIPeAe4RT.jpg",doctor who
+https://archive.org/download/bflix_202501/doctorwho.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pFTR60i4aRwQfmElPaSP59dL7YH.jpg",MAC-GYVER
+https://archive.org/download/la-ninera-4/mac-gyver.m3u
+#EXTINF:-1 tvg-logo="https://ia600605.us.archive.org/19/items/bflix_202501/IMG_20250117_055112.jpg",mujeres asesinas (2008)
+https://archive.org/download/bflix_202501/mujeresasessin.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uf6L2w2QRomahGMCniHskNOQWf.jpg",OKUPAS mejor calidad
+https://archive.org/download/spartacus_202412/BFLIXokupasMJ.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uf6L2w2QRomahGMCniHskNOQWf.jpg",okupas (2000)
+https://archive.org/download/bflix_202501/okupa.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg",esta en hulu tamb
+https://archive.org/download/la-ninera-4/losmagn1f1cos.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5gMWaPWsVkgDtCnlYi98GqaKBE8.jpg",CIUDAD CRUEL (2019)
+https://archive.org/download/spartacus_202412/ciudadcruel.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dtH2Rn6MqZ8pstFzvEC2XGROKpt.jpg",CASADOS CON HIJOS(2005)
+https://archive.org/download/la-ninera-4/CASADOSCONHUJOS.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yOe9CHCvYmgi56mz4KnUTF9aLpZ.jpg",LA NINERA (2004)
+https://archive.org/download/la-ninera-4/lani%C3%B1eraarg.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efnDw94lgfjbZv7VekhaaCrjFhM.jpg",Doomed (Amores Roubados)(2014)
+https://archive.org/download/spartacus_202412/amoresrobados.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3jC2V0b7G7JjenibzurolALsQKr.jpg",NINI (2009)
+https://archive.org/download/la-ninera-4/nini.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w6jMWCQzqTon07TZGN576hqHa0V.jpg",SANGRE FRIA (2004)
+https://archive.org/download/la-ninera-4/sangrefria.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eB9B55lFN5aBJysh9COMqKNYI2l.jpg",Pone a Francella (2001)
+https://archive.org/download/la-ninera-4/poneafranchella.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hpB5jvpDo2imeF5BFfdmEmXdu7I.jpg",Cosmos Una odisea en el espacio tiempo (2014)
+https://archive.org/download/la-ninera-4/cosmos.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2s0mOdJMfIgzgn8Q9HvWHptgCKi.jpg",los 3 chiflados
+https://archive.org/download/la-ninera-4/los3chiflados.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8tDMglrYBcSUxM3aEoagPOUuJty.jpg",Socias (2008)
+https://archive.org/download/la-ninera-4/socias.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kG9NiZwWJrKWTviOn5G4ljrAbpW.jpg",Sandro de America   (2018)
+https://archive.org/download/la-ninera-4/sandroenamerica.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tZunu6nQsf3DaQERlFaQ1yih6Nh.jpg",El Paraiso (2011)
+https://archive.org/download/la-ninera-4/el%20paraiso2011.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xr5wRHwO56yQiuz5lLf0C3AoVIf.jpg",Vulnerables (1999)
+https://archive.org/download/la-ninera-4/vulnerables1999.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yMPKUURDzQixZMZawkMqrxp6fPc.jpg",Hermanos y detectives (2007)
+https://archive.org/download/la-ninera-4/hermanos%20y%20dectetives.m3u
+#EXTINF:-1 tvg-logo="https://ia600301.us.archive.org/31/items/la-ninera-4/__ia_thumb.jpg",cuentos asombrosos (1985)
+https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/cuentosasom
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q2QsZaG8ucaAZXvpQ6c4wTGqvkB.jpg",escalofrios (1995)
+https://archive.org/download/la-ninera-4/escalofrios.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2D11vhVBLC4jP0vVqKdQm97Z3qb.jpg",Los Magníficos (1983)
+ https://raw.githubusercontent.com/tokio14-dot/losmagn/refs/heads/main/losmag
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUjsvpfWQ0OuKWPpbsfFHZhLGiK.jpg",EL DE EN MEDIO.jpg",MALCOLM EL DE EN MEDIO
+http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uvffsGxLjYsQ3Ya3VfuN45GVNOy.jpg",ALF
+http://archive.org/download/listasaqui_ymail4_Alf/alf.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7PjIzzCh43hNU77C8oKLdL7XXge.jpg",La isla de Gilligan (1964)
+https://github.com/tokio14-dot/dan-dadan/releases/download/V.0.1.0/La.isla.de.Gilligan.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b6SJZ41I8VejKLHskKatNuHmCWx.jpg",El Cuentacuentos: Mitos griegos (1991)
+https://dl.dropbox.com/s/qjknsourhmviz5p/3LNARRADORD3CUENTOS.M3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aBZynbuxspjz01mxrWpP5ZyDIyq.jpg",The Addams Family (1964)
+https://archive.org/download/la-ninera-4/los%20locos%20adam.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mm04NKQeYWJsUnNIDwi938hGYfV.jpg",Sabrina, cosas de brujas (1996)
+https://archive.org/download/boku-no-hero-4/SABRINA.m3u
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/spartacus_202412/vuelta.jpg",VUELTA AL MUNDO 80 DIAS MINISERIE (1989)
+https://archive.org/download/spartacus_202412/vuektaalmundo.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cHTj9R311yylFlszfpQ0tk7Gpkh.jpg",Esta es mi banda (2009)
+https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/estoy.en.la.banda.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qghY5Oj1ND5iYJpf8ViuiTbwSNm.jpg",Zeke y Luther (2009)
+https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/Zeke.y.Luther.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vyFCIKuZp2RbUZNJUugOBIz3xin.jpg",Aquellos maravillosos a (1988)
+https://archive.org/download/spartacus_202412/a%C3%B10sm4ravi770s0s.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/42NwhF2myOPvO4xn0qaXlI6sIIR.jpg",historias de la Cripta (1989)
+https://archive.org/download/spartacus_202412/cuentoscrypta.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1zEdxchngKLIoHK2dEUXO8BgonA.jpg",la ninera (1993)
+https://archive.org/download/la-ninera-4/la%20ni%C3%B1era.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o0RThaslpWsqYESO9TSZQI1qb3g.jpg",the nanny (opcion 2)
+https://archive.org/download/la-ninera-4/la%20ni%C3%B1erabflix.m3u
+
